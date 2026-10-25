@@ -45,6 +45,7 @@ class AppConfig: ObservableObject {
 
     /// Additional rules appended to the system prompt
     var rules: String = ""
+    
     var newTest: String = "ahcd31ii33sl"
     var newTest2: String = "ahcd31ii33sl"
 
