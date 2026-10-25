@@ -48,6 +48,8 @@ class AppConfig: ObservableObject {
     
     var newTest: String = "ahcd31ii33sl"
     var newTest2: String = "ahcd31ii33sl"
+    
+    var newTest3: String = "abc"
 
     // MARK: - State
 
